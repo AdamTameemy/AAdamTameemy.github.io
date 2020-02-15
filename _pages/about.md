@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am **_Adam MOHAMMED_**. I’m a Ph.D. Fellow in the College of Computer Science at [Sichuan University](http://www.scu.edu.cn/), advised by [Prof. Jiancheng Lv](https://baike.baidu.com/item/%E5%90%95%E5%BB%BA%E6%88%90/12631172?fr=aladdin)..
+Hi! I am **_Adam MOHAMMED_**. I’m a Ph.D. Fellow in the College of Computer Science at [Sichuan University](http://www.scu.edu.cn/), advised by [Prof. Jiancheng Lv](https://baike.baidu.com/item/%E5%90%95%E5%BB%BA%E6%88%90/12631172?fr=aladdin).
 
 Education
 ======
