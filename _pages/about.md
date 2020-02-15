@@ -29,7 +29,7 @@ Awards & Honors
 + **_China Scholarship Council Scholarship_**, 2017.
 + **_Second Class honors_** USTO-MB Univeristy, 2015.
 + **_Yemeni Postgraduate Scholarship_**, 2014.
-+ **_First Class honors_** M’sila Univeristy 2013.
++ **_First Class honors_** M’sila Univeristy, 2013.
 + **_Yemeni Scholarship_** for Excellent Undergraduate Students, 2010.
 + **_First Class_** at High School, 2008.
 
