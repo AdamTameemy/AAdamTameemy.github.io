@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am **_Adam MOHAMMED_**. I’m a Ph.D. Candidate in the College of Computer Science at [Sichuan University](http://www.scu.edu.cn/), advised by [Prof. Jiancheng Lv](https://baike.baidu.com/item/%E5%90%95%E5%BB%BA%E6%88%90/12631172?fr=aladdin).
+Hi! I am **_Adam A. Q. MOHAMMED_**. I’ve graduated with a Doctor of Engineering in Computer Science and Tecnology from  [Sichuan University](http://www.scu.edu.cn/), advised by [Prof. Jiancheng Lv](https://baike.baidu.com/item/%E5%90%95%E5%BB%BA%E6%88%90/12631172?fr=aladdin).
 
 Education
 ======
-+ 2017.10 - present, **_Ph.D_**. Student, [DICALab](http://dicalab.cn/), [Sichuan University](http://www.scu.edu.cn/) (SCU). <img align="right" width="70" height="70" src="images/scu.png">
++ 2017.10 - 2021.12, **_Ph.D_**.[DICALab](http://dicalab.cn/), [Sichuan University](http://www.scu.edu.cn/) (SCU). <img align="right" width="70" height="70" src="images/scu.png">
   - Advisor: Prof. Jiancheng Lv
 + 2013.9 - 2015.7., **_M.S_**, Faculty of electrical engineering, [Oran University of Science and Technology - Mohamed Boudiaf](https://www.univ-usto.dz/) (USTO-MB).
   - Advisor: Prof. Abdelhamid LOUKIL. <img align="right" width="70" height="70" src="images/ustomb.png">
