@@ -14,6 +14,7 @@ Education
 ======
 + 2017.10 - 2021.12, **_Ph.D_**.[DICALab](http://dicalab.cn/), [Sichuan University](http://www.scu.edu.cn/) (SCU). <img align="right" width="70" height="70" src="images/scu.png">
   - Advisor: Prof. Jiancheng Lv
+  - Major : Computer Science and Tecnology
 + 2013.9 - 2015.7., **_M.S_**, Faculty of electrical engineering, [Oran University of Science and Technology - Mohamed Boudiaf](https://www.univ-usto.dz/) (USTO-MB).
   - Advisor: Prof. Abdelhamid LOUKIL. <img align="right" width="70" height="70" src="images/ustomb.png">
   - Major : Networks, Telecoms, Vision and Multimedia.
