@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-For a detailed CV please contatct me at **_[aa.tameemy@gmail.com](aa.tameemy@gmail.com)_**
+For a detailed CV please contact me at **_[aa.tameemy@gmail.com](aa.tameemy@gmail.com)_**
